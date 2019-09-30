@@ -17,6 +17,17 @@ h1 {
   line-height: 1.5;
 }
 
+h2 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
 .fab {
   padding-right: 5px;
 }
@@ -66,11 +77,6 @@ h1 {
   text-align: center;
 }
 
-h3 {
-  font-family: "Montserrat";
-  font-weight: bold;
-}
-
 .fas {
   color: #ef8172;
   margin-bottom: 1rem;
@@ -82,4 +88,32 @@ h3 {
 
 .feature-description{
   color: #8f8f8f;
+}
+
+/* Testimonials */
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+   text-align: center;
+   padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 15px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
 }
