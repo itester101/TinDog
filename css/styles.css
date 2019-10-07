@@ -156,10 +156,6 @@ i.fas{
   padding: 3% 2%
 }
 
-#cta {
-  margin-bottom: 5%;
-}
-
 @media (max-width: 1295px) {
   #title {
       text-align: center;
